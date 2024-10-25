@@ -174,7 +174,7 @@ body {
 .rightNav button {
   color: black;
   border: none;
-  background-color: rgb(238, 10, 10);
+  background-color: rgb(255, 255, 255);
   margin-bottom: 10px;
 }
 
@@ -198,13 +198,13 @@ body {
   outline: none;
   font-size: 15px;
   align-items: center;
-  padding-left: 25px;
-  color: rgb(238, 10, 10);
+  padding-left: 0px;
+  color: rgb(255, 7, 7);
   margin-top: 3px;
 }
 
 ::placeholder {
-  color: rgb(238, 10, 10);
+  color: rgb(143, 142, 142);
 }
 
 .search-bar button {
